@@ -1,0 +1,43 @@
+.container {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(95,9,121,0.9837184873949579) 0%, rgba(0,212,255,1) 92%);
+    /* height: 80px; */
+ 
+}
+
+.card-body{
+    border-radius: 10px;
+}
+.wrapper {
+    box-shadow: 0 8px 16px rgba(0, 0,0, 0.3);
+    width: 1200px;
+    border-radius:10px;
+    margin-left: 50px;
+}
+.card{
+    padding: 0px 0px 0px 50px;
+    margin-left: 30px;
+    display: flex;
+
+    
+}
+.card-body1{
+
+    /* padding-right: 50px; */
+    display: flex;
+    margin-left: 150px;
+    padding-left: 40px;
+    padding-right : 40px;
+}
+.card-body2{
+    padding-left: 50px;
+
+    padding-right: 50px;
+    display: flex;
+    margin-left: 150px;
+}
+
+.card-title {
+    position: relative;
+    right:550px;
+}

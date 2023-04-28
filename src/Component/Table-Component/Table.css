@@ -1,0 +1,21 @@
+.table-striped {
+
+    border: 1px black solid;
+}
+table{
+    border: 1px black solid;
+}
+
+table, th,td {
+    margin: 80px 0px 0px 40px;
+    border: 1px white solid;
+    padding: 10px;
+    font-size: 15px;
+}
+
+th {
+    color: rgb(236, 224, 224)}
+
+.addnewuser-btn{
+    position: relative;
+}
